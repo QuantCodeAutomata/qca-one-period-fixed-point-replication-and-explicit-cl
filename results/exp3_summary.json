@@ -1,0 +1,32 @@
+{
+  "N1_call": {
+    "max_residual": 6.217248937900877e-15,
+    "mean_residual": 2.6252611196042606e-15,
+    "satisfied": true
+  },
+  "N2_call": {
+    "max_residual": 7.105427357601002e-15,
+    "mean_residual": 2.544688418315566e-15,
+    "satisfied": true
+  },
+  "N1_midpoint": {
+    "max_residual": 7.105427357601002e-15,
+    "mean_residual": 2.9017344083115406e-15,
+    "satisfied": true
+  },
+  "N2_midpoint": {
+    "max_residual": 7.105427357601002e-15,
+    "mean_residual": 3.2537861294201776e-15,
+    "satisfied": true
+  },
+  "N1_put": {
+    "max_residual": 6.217248937900877e-15,
+    "mean_residual": 2.625261336444695e-15,
+    "satisfied": true
+  },
+  "N2_put": {
+    "max_residual": 7.105427357601002e-15,
+    "mean_residual": 2.5446886351560006e-15,
+    "satisfied": true
+  }
+}
